@@ -6,6 +6,11 @@ Welcome to the NFT Marketplace, where you can dive into the world of cryptocurre
 
 <img src="https://github.com/kaleemlab/portfolio-mobile-app/assets/72068277/f84a422f-98c5-43e5-a97b-3f4b48742a8a" width="540" height="405" />
 
+# Fitness Tracker : Yoga, Health, Exercise, Fitness
+Fitness Tracker is your ultimate companion for tracking and improving your fitness journey. With dedicated features for yoga, exercise, and overall health, it empowers you to monitor your progress, set goals, and stay motivated. From tracking your workouts to monitoring your heart rate and calories burned, Fitness Tracker is the perfect app to help you achieve your fitness goals and lead a healthier lifestyle.
+
+<img src="https://github.com/kaleemlab/portfolio-mobile-app/assets/72068277/b4bec75f-5fce-40a1-9674-cd97df9b0548" width="540" height="540" />
+
 # GreatSaddle : Barber, Beauty, Shop, Appointment System
 GreatSaddle is the ultimate platform for barbershops, beauty salons, and hair stylists. It offers a comprehensive appointment system, empowering customers to easily schedule their desired services. With GreatSaddle, barbers, beauty professionals, and shop owners can efficiently manage their bookings, ensuring a seamless experience for both clients and providers in the world of grooming and beauty.
 
