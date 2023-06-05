@@ -71,6 +71,11 @@ Introducing NomiTap, the innovative app that revolutionizes how you share and co
 
 ![9](https://github.com/kaleemlab/portfolio-mobile-app/assets/72068277/c97b9074-534d-4098-95d3-0f90c7077edc)
 
+# Foobee : Make friends, Earn Points
+Foobee is the ultimate social app where you can make new friends while earning points along the way. Connect with like-minded individuals, engage in meaningful conversations, and participate in exciting activities to accumulate points. With Foobee, building friendships has never been more rewarding.
+
+<img width="738" alt="Screenshot 2023-06-05 at 4 18 58 PM" src="https://github.com/kaleemlab/portfolio-mobile-app/assets/72068277/976f5bd2-a8d8-4818-82f9-ca66e7f8ccfa">
+
 # Tree Of Memories : Digital Funeral, Memories
 Tree Of Memories is a unique platform that offers a digital space for honoring and preserving memories of loved ones. It serves as a digital funeral platform, providing a comforting environment to share memories, stories, photos, and videos. With Tree Of Memories, you can create a lasting tribute, fostering a sense of connection and remembrance for those who have passed away.
 
