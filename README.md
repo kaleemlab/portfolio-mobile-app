@@ -1,6 +1,21 @@
 # Mobile Application - Portfolio
 Mobile Application Portfolio (React Native, Native Android/iOS)
 
+# NFT Marketplace : Crypto, NFT, Web3, Marketplace
+Welcome to the NFT Marketplace, where you can dive into the world of cryptocurrencies, NFTs, and Web3 technology. Discover and trade unique digital assets on our innovative marketplace, where you can explore a wide range of NFTs, connect with creators, and engage in secure and decentralized transactions. Embrace the future of digital ownership and expression in our NFT Marketplace.
+
+<img src="https://github.com/kaleemlab/portfolio-mobile-app/assets/72068277/f84a422f-98c5-43e5-a97b-3f4b48742a8a" width="540" height="405" />
+
+# GreatSaddle : Barber, Beauty, Shop, Appointment System
+GreatSaddle is the ultimate platform for barbershops, beauty salons, and hair stylists. It offers a comprehensive appointment system, empowering customers to easily schedule their desired services. With GreatSaddle, barbers, beauty professionals, and shop owners can efficiently manage their bookings, ensuring a seamless experience for both clients and providers in the world of grooming and beauty.
+
+<img src="https://github.com/kaleemlab/portfolio-mobile-app/assets/72068277/7e1cae68-a384-4c44-9223-bdddf15415d8" width="540" height="405" />
+
+# Smart Alarm : Alarm, Scheduler, Reminder
+Smart Alarm is your intelligent companion for all your scheduling and reminder needs. With its powerful alarm and scheduler features, you can set personalized alarms, create schedules, and receive timely reminders to stay organized and on top of your tasks. Let Smart Alarm simplify your daily routine and ensure you never miss an important event again.
+
+<img src="https://github.com/kaleemlab/portfolio-mobile-app/assets/72068277/6d90182d-c888-4784-a409-c24373cf0ecc" width="450" height="450" />
+
 # EBook : Books from all over the world
 EBook is your gateway to a vast collection of books from all corners of the world. Immerse yourself in a diverse range of literary works, spanning various genres and languages. Expand your knowledge, explore different cultures, and embark on literary adventures with EBook, your ultimate destination for global literature.
 
