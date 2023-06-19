@@ -21,6 +21,11 @@ Smart Alarm is your intelligent companion for all your scheduling and reminder n
 
 <img src="https://github.com/kaleemlab/portfolio-mobile-app/assets/72068277/6d90182d-c888-4784-a409-c24373cf0ecc" width="450" height="450" />
 
+# CheckOut : Scan and Shop, Contactless In-Store
+Embrace the future of shopping with our contactless QR code scanning system. Effortlessly browse, select, and purchase items at your fingertips. Say goodbye to queues and enjoy a seamless shopping experience.
+
+<img src="https://github.com/kaleemlab/portfolio-mobile-app/assets/72068277/c2846521-a9a9-4052-97ca-4a8d2de2f8b7" width="450" height="450" />
+
 # EBook : Books from all over the world
 EBook is your gateway to a vast collection of books from all corners of the world. Immerse yourself in a diverse range of literary works, spanning various genres and languages. Expand your knowledge, explore different cultures, and embark on literary adventures with EBook, your ultimate destination for global literature.
 
