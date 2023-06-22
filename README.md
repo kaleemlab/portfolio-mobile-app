@@ -31,6 +31,11 @@ EBook is your gateway to a vast collection of books from all corners of the worl
 
 <img src="https://github.com/kaleemlab/portfolio-mobile-app/assets/72068277/befa7ab2-169a-4951-b921-a486ab5fb461" width="450" height="450" />
 
+# SecureShield VPN : Protect Your Privacy Anywhere
+SecureShield VPN is a reliable and user-friendly app that ensures your online activities remain private and secure. With military-grade encryption, it masks your IP address and safeguards your data, allowing you to browse the web with peace of mind. Access blocked content and enjoy unrestricted internet freedom with SecureShield VPN
+
+<img src="https://github.com/kaleemlab/portfolio-mobile-app/assets/72068277/dac1b203-94da-47d4-b8db-eefb45c46142" width="450" height="450" />
+
 # UWC : Music, Chat, Likes, Comments, Story, Playlist
 UWC is a dynamic mobile app that brings together music enthusiasts from around the world. Experience the joy of music with features like chat, likes, comments, stories, and personalized playlists. Connect, engage, and discover the latest tunes while sharing your passion for music within the UWC community.
 
