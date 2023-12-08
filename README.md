@@ -1,6 +1,36 @@
 # Mobile Application - Portfolio
 Mobile Application Portfolio (React Native, Native Android/iOS)
 
+# XImage - Expression Based Generator
+Where visual narratives come alive through AI-powered storytelling, transforming images into vivid and expressive tales.
+
+<img src="https://github.com/kaleemlab/portfolio-mobile-app/assets/72068277/e3146023-14dd-4e51-a358-79818d806dfd"  width="640" height="385" />
+
+# XWomen - All About Women
+Empowering Women Through Diverse Blogs, Fostering A Thriving Community.
+
+<img src="https://github.com/kaleemlab/portfolio-mobile-app/assets/72068277/2ee0a2c6-cd0a-4830-8c2a-dc652d5f925d"  width="640" height="385" />
+
+# Doctor Appointment System
+The Doctor Appointment System seamlessly integrates AI-driven chat capabilities, enhancing patient interactions and providing comprehensive support throughout appointments.
+
+<img src="https://github.com/kaleemlab/portfolio-mobile-app/assets/72068277/c32df450-a1d2-4d5b-adda-0b55a5490ae9"  width="640" height="385" />
+
+# Style Shifter : Styling Fine Tune
+Style Shifter offers an advanced AI-driven platform, refining, and customizing dress and makeup styles to perfection, tailored to individual preferences and occasions.
+
+<img src="https://github.com/kaleemlab/portfolio-mobile-app/assets/72068277/b7dfbf75-6b19-4551-b27c-6f2600ec0a5a"  width="470" height="395" />
+
+# Now Goals : Goal and Health Tracking
+Introducing an innovative goal management system integrated with an AI-powered personal assistant, designed to facilitate goal setting and progress tracking seamlessly.
+
+<img src="https://github.com/kaleemlab/portfolio-mobile-app/assets/72068277/ac831d8b-1e5b-4322-ad65-5d225202f173"  width="470" height="395" />
+
+# FakeDJ : Music Voting
+Tired of only one person playing the music? With FakeDJ you will be able to vote on the upcoming songs.
+
+<img src="https://github.com/kaleemlab/portfolio-mobile-app/assets/72068277/2e62be92-9761-4ec6-b9d6-dc73c4cdb01f" width="640" height="385" />
+
 # NFT Marketplace : Crypto, NFT, Web3, Marketplace
 Welcome to the NFT Marketplace, where you can dive into the world of cryptocurrencies, NFTs, and Web3 technology. Discover and trade unique digital assets on our innovative marketplace, where you can explore a wide range of NFTs, connect with creators, and engage in secure and decentralized transactions. Embrace the future of digital ownership and expression in our NFT Marketplace.
 
