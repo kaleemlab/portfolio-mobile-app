@@ -1,6 +1,11 @@
 # Mobile Application - Portfolio
 Mobile Application Portfolio (React Native, Native Android/iOS)
 
+# Mobile / Web (React Native / ReactJS / NextJS) - Portfolio
+Updated Portfolio from Freelance Platforms
+
+<img src="https://github.com/kaleemlab/portfolio-mobile-app/assets/72068277/85df953b-bcb9-4141-b3b9-aa41fdf12ecc" width="2880" height="10009"/>
+
 # XImage - Expression Based Generator
 Where visual narratives come alive through AI-powered storytelling, transforming images into vivid and expressive tales.
 
